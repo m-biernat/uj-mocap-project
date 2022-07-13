@@ -299,13 +299,13 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: Hips
       parentName: Idle 02(Clone)
-      position: {x: -0, y: -0.00000014743395, z: 0.9049431}
-      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      position: {x: 0, y: -0.0000011920929, z: 0.90493953}
+      rotation: {x: 0.50000066, y: -0, z: -0, w: 0.8660251}
       scale: {x: 1, y: 0.99999994, z: 0.99999994}
     - name: Chest
       parentName: Hips
-      position: {x: -0, y: 0.09875983, z: 0.0000011599989}
-      rotation: {x: -0.000009796788, y: 0, z: -0, w: 1}
+      position: {x: 0, y: 0.098758705, z: 0.00000046193605}
+      rotation: {x: 0.13051672, y: -0, z: -0, w: 0.99144614}
       scale: {x: 1, y: 1, z: 1}
     - name: Chest2
       parentName: Chest
@@ -314,8 +314,8 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: Chest3
       parentName: Chest2
-      position: {x: -0, y: 0.0982703, z: -1.2789769e-13}
-      rotation: {x: 7.6383344e-13, y: -0, z: -0, w: 1}
+      position: {x: 0, y: 0.09826806, z: -0.0000007867094}
+      rotation: {x: 0.13052629, y: -0, z: -0, w: 0.9914449}
       scale: {x: 1, y: 1, z: 1}
     - name: Chest4
       parentName: Chest3
@@ -324,8 +324,8 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: Neck
       parentName: Chest4
-      position: {x: -0, y: 0.13837552, z: 0}
-      rotation: {x: -0.000027550002, y: 0, z: -0, w: 1}
+      position: {x: 0, y: 0.1383722, z: -0.0000006482003}
+      rotation: {x: 0.1304988, y: -0, z: -0, w: 0.9914485}
       scale: {x: 1, y: 1, z: 1}
     - name: Head
       parentName: Neck
@@ -389,8 +389,8 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: RightHip
       parentName: Hips
-      position: {x: 0.08019444, y: -0.0000056624413, z: -0.00000057999944}
-      rotation: {x: 1, y: 2.7080421e-14, z: 0.000000043711385, w: 0.00000079894835}
+      position: {x: 0.08019444, y: -0.000008051025, z: -0.0000033405613}
+      rotation: {x: 0.96592605, y: 0.000000011313374, z: 0.000000042221956, w: -0.25881818}
       scale: {x: 1, y: 1, z: 1}
     - name: RightKnee
       parentName: RightHip
@@ -414,8 +414,8 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: LeftHip
       parentName: Hips
-      position: {x: -0.08019444, y: -0.0000056624413, z: -0.00000057999944}
-      rotation: {x: 1, y: 2.7080421e-14, z: 0.000000043711385, w: 0.00000079894835}
+      position: {x: -0.08019444, y: -0.000008295289, z: -0.0000032751109}
+      rotation: {x: 0.96592605, y: 0.000000011313366, z: 0.00000004222196, w: -0.25881818}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftKnee
       parentName: LeftHip
