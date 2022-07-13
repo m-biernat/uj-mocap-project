@@ -394,8 +394,8 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: Neck
       parentName: Chest4
-      position: {x: -0, y: 0.13837552, z: 0}
-      rotation: {x: -0.000027550002, y: 0, z: -0, w: 1}
+      position: {x: 0, y: 0.13836235, z: -0.0000021541152}
+      rotation: {x: 0.25879213, y: -0, z: -0, w: 0.965933}
       scale: {x: 1, y: 1, z: 1}
     - name: Head
       parentName: Neck
@@ -459,18 +459,18 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: RightHip
       parentName: Hips
-      position: {x: 0.08019444, y: -0.0000056624413, z: -0.00000057999944}
-      rotation: {x: 1, y: 3.290094e-14, z: 0.000000043711385, w: 0.00000066579025}
+      position: {x: 0.08019469, y: -0.000010788441, z: -0.0000005960456}
+      rotation: {x: 1, y: -0.000000014901159, z: 0.000000036106826, w: 0.0000006556511}
       scale: {x: 1, y: 1, z: 1}
     - name: RightKnee
       parentName: RightHip
-      position: {x: 5.3498872e-14, y: 0.4175497, z: -8.348877e-14}
-      rotation: {x: 3.359259e-14, y: 1, z: -0.0000004828546, w: 0.00000013315805}
+      position: {x: 0.00000037007194, y: 0.41755304, z: 0.0000000110972564}
+      rotation: {x: 0.12940954, y: 0.98296297, z: 0.017036488, w: 0.12940916}
       scale: {x: 1, y: 1, z: 1}
     - name: RightAnkle
       parentName: RightKnee
-      position: {x: 6.883383e-14, y: 0.40737352, z: 1.1679546e-13}
-      rotation: {x: 0.000000039161183, y: 0.8379966, z: 0.54567546, w: -0.00000013340001}
+      position: {x: -0.000000037252903, y: 0.40737337, z: -0.000000037252903}
+      rotation: {x: 0.073781304, y: 0.7936224, z: 0.5960337, w: -0.097282045}
       scale: {x: 1, y: 1.0000004, z: 1}
     - name: RightToe
       parentName: RightAnkle
@@ -484,18 +484,18 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: LeftHip
       parentName: Hips
-      position: {x: -0.08019444, y: -0.0000056624413, z: -0.00000057999944}
-      rotation: {x: 1, y: 3.290094e-14, z: 0.000000043711385, w: 0.00000066579025}
+      position: {x: -0.08019429, y: -0.000010788441, z: -0.0000005960456}
+      rotation: {x: 1, y: 0.000000014901161, z: 0.000000045148425, w: 0.0000006556511}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftKnee
       parentName: LeftHip
-      position: {x: 5.3498872e-14, y: 0.4175497, z: -4.440892e-14}
-      rotation: {x: 3.359259e-14, y: 1, z: -0.0000004828546, w: 0.00000013315805}
+      position: {x: -0.00000027321434, y: 0.41755292, z: 0.000000011097086}
+      rotation: {x: -0.12940954, y: 0.982963, z: 0.017036479, w: -0.12940891}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftAnkle
       parentName: LeftKnee
-      position: {x: 6.883383e-14, y: 0.40737352, z: 5.3734794e-14}
-      rotation: {x: 0.000000039161183, y: 0.8379966, z: 0.54567546, w: -0.00000013340001}
+      position: {x: 0, y: 0.4073734, z: 0.000000007450581}
+      rotation: {x: -0.073780775, y: 0.7936223, z: 0.5960338, w: 0.09728191}
       scale: {x: 1, y: 1.0000004, z: 1}
     - name: LeftToe
       parentName: LeftAnkle
